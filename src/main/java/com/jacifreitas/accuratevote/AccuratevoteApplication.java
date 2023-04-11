@@ -1,0 +1,13 @@
+package com.jacifreitas.accuratevote;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AccuratevoteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AccuratevoteApplication.class, args);
+	}
+
+}
